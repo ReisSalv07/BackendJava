@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Captura de tela 2026-05-26 190158" src="https://github.com/user-attachments/assets/38ac0f25-ec70-4847-a7e6-7e41b0b0e81c" /># 🎓 Aluno Online
+ 🎓 Aluno Online
 
 O **Aluno Online** é uma API REST desenvolvida em Java para o gerenciamento de uma instituição de ensino. O sistema permite o controle completo de alunos, professores, disciplinas e o processo de matrícula, garantindo a persistência dos dados em um banco de dados relacional.
 
